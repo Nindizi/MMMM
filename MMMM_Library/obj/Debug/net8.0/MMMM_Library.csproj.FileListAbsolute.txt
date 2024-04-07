@@ -1,0 +1,12 @@
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\bin\Debug\net8.0\MMMM_Library.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\bin\Debug\net8.0\MMMM_Library.dll
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\bin\Debug\net8.0\MMMM_Library.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.csproj.CoreCompileInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.sourcelink.json
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.dll
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\refint\MMMM_Library.dll
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\MMMM_Library.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\MMMM_Library\obj\Debug\net8.0\ref\MMMM_Library.dll

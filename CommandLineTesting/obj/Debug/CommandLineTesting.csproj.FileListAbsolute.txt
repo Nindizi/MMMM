@@ -1,0 +1,7 @@
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\bin\Debug\CommandLineTesting.exe.config
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\bin\Debug\CommandLineTesting.exe
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\bin\Debug\CommandLineTesting.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\obj\Debug\CommandLineTesting.csproj.AssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\obj\Debug\CommandLineTesting.csproj.CoreCompileInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\obj\Debug\CommandLineTesting.exe
+C:\Users\Diesel\Documents\c sharp workspaces\MMMM\CommandLineTesting\obj\Debug\CommandLineTesting.pdb

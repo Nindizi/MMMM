@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MMMM_Gui.Views"
         mc:Ignorable="d"
-        Title="AddUser" Height="450" Width="800">
+        Title="AddUser" Height="450" Width="400">
     <Grid>
 
         <Label Content="Name" Margin="25" VerticalAlignment="Top" HorizontalAlignment="left"/>

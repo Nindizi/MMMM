@@ -8,19 +8,24 @@ namespace MMMM_Gui.Models
 {
     public class Mod
     {
+        public Mod()
+        {
+
+        }
+
         /// <summary>
         /// Name of the mod
         /// </summary>
-        public string? ModName { get; set; }
+        public string? _ModName { get; set; }
 
         /// <summary>
         /// Version of mod
         /// </summary>
-        public double? Version { get; set; }
+        public double? _Version { get; set; }
 
         /// <summary>
         /// Date mod was downloaded
         /// </summary>
-        public DateOnly? DownloadDate { get; set; }
+        public DateOnly? _DownloadDate { get; set; }
     }
 }
